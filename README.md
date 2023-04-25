@@ -4,10 +4,13 @@
 - My software development degree was focused mainly on Java with some HTML, CSS, & UI Design in the middle. 
 
 <div id="badges">
-  <a href="linkedin.com/leekati">
+  <a href="https://www.linkedin.com/in/leekati/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=ktkeys&style=flat-square&color=blue" alt=""/>
+
 
 
 Outside of the techy stuff - I'm a digital nomad :earth_americas:, travelling around the U.S with my truck :pickup_truck:	and camper and most important, my fur baby :dog: 
